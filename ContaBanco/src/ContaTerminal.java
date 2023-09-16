@@ -2,7 +2,7 @@ import java.util.Locale;
 import java.util.Scanner;
 public class ContaTerminal {
     public static void main(String[] args) {
-        //TO DO:Conhecer e importar a classe scanner
+        //TO DO: Conhecer e importar a classe scanner
 
         //Exibir mensagens para nosso usuário
 
